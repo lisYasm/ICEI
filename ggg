@@ -1,0 +1,34 @@
+GET /sitio273/formulario.html HTTP/1.1
+Host: localhost
+
+GET /sitio273/procesar.php?ci=415&nombre=James HTTP/1.1
+Host: localhost
+
+GET /search?q=telnet HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0
+
+
+
+/*no hagas caso a esto es lo que yo coloque*/
+/*estas 3 lineas las coloque en la pantalla negra, se spone que deberia salir algo pero dice GET no es un comando*/
+GET / HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14
+
+
+
+				escritor.write("Connection: Keep-Alive\n");
+				escritor
+				.write("User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14\n\n");
+				443
+
+
+				telnet www.google.com 443
+
+				 
+				GET / HTTP/1.1 
+				Host:www.google.com 
+
+
+				
